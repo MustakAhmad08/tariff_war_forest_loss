@@ -28,7 +28,7 @@ All source datasets are openly available:
 - **FAOSTAT** — global agricultural databases  
   https://www.fao.org/faostat/en/#data
 
-## C. Soybean Exports from Brazil to China (2015–2025)
+## C. Soybean Exports from Brazil to China (2002–2025)
 - **MDIC — Ministério do Desenvolvimento, Indústria e Comércio Exterior**  
   https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta#Municipio
 - **ComexStat** — Brazilian export statistics  
