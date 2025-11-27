@@ -28,17 +28,21 @@ All source datasets are openly available:
 - **FAOSTAT** — global agricultural databases  
   https://www.fao.org/faostat/en/#data
 
-## C. Soybean Exports from Brazil to China (2002–2025)
+## C. Climate Data
+- **•	Climate Change Knowledge Portal (CCKP)** — temperature, precipitation, and climate indicators
+https://climateknowledgeportal.worldbank.org/
+
+## D. Soybean Exports from Brazil to China (2002–2025)
 - **MDIC — Ministério do Desenvolvimento, Indústria e Comércio Exterior**  
   https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta#Municipio
 - **ComexStat** — Brazilian export statistics  
   https://comexstat.mdic.gov.br/pt/municipio
 
-## D. Soybean Exports from the United States to China
+## E. Soybean Exports from the United States to China
 - **USDA FAS – Global Agricultural Trade System (GATS)**  
   https://apps.fas.usda.gov/gats/default.aspx
 
-## E. Historical Soybean Price Data
+## F. Historical Soybean Price Data
 - **Macrotrends** — historical soybean price series  
   https://www.macrotrends.net/2531/soybean-prices-historical-chart-data
 - **Farmdoc Daily** — soybean market analysis  
