@@ -73,4 +73,3 @@ Run scripts in order:
 6. `analysis/06_impact_forecast_plot.R`
 7. `analysis/07_export_ratio_plots.R`
 
-Figures are saved in `results/figures/`.
