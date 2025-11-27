@@ -14,17 +14,38 @@ All scripts are modular and located in the `analysis/` directory.
 
 All source datasets are openly available:
 
+## A. Deforestation Data
 - **MapBiomas Collection 10** — annual land cover (2000–2023)  
-  https://mapbiomas.org/
-- **INPE PRODES** — forest loss (2001–2023)  
+  https://brasil.mapbiomas.org/en/
+- **INPE PRODES** — annual forest loss (2001–2023)  
   https://terrabrasilis.dpi.inpe.br/
-- **World Governance Indicators**  
-  https://databank.worldbank.org/source/worldwide-governance-indicators
-- **Climate (ERA5)** — reanalysis precipitation & temperature  
-  https://cds.climate.copernicus.eu/
+
+## B. Soybean Production and Cropland Expansion
+- **IBGE** — agricultural production statistics  
+  https://www.ibge.gov.br/en/ibge-search.html?searchphrase=all&searchword=Soybeans
+- **MapBiomas Agriculture Layers** — cropland mapping  
+  https://brasil.mapbiomas.org/en/
+- **FAOSTAT** — global agricultural databases  
+  https://www.fao.org/faostat/en/#data
+
+## C. Soybean Exports from Brazil to China (2015–2025)
+- **MDIC — Ministério do Desenvolvimento, Indústria e Comércio Exterior**  
+  https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta#Municipio
+- **ComexStat** — Brazilian export statistics  
+  https://comexstat.mdic.gov.br/pt/municipio
+
+## D. Soybean Exports from the United States to China
+- **USDA FAS – Global Agricultural Trade System (GATS)**  
+  https://apps.fas.usda.gov/gats/default.aspx
+
+## E. Historical Soybean Price Data
+- **Macrotrends** — historical soybean price series  
+  https://www.macrotrends.net/2531/soybean-prices-historical-chart-data
+- **Farmdoc Daily** — soybean market analysis  
+  https://farmdocdaily.illinois.edu/2025/09/us-soybean-harvest-starts-with-no-sign-of-chinese-buying-as-brazil-sets-export-record.html  
+  https://farmdocdaily.illinois.edu/2024/07/corn-and-soybeans-economics-in-2024-and-2025-back-to-the-new-old-normal.html
 
 Processed data used in the analysis are included in `data/processed/`.
-
 ---
 
 ## Software Environment
